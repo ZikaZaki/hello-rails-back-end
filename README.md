@@ -71,7 +71,7 @@
 
 ## 🚀 React App Link <a name="react-app-link"></a>
 
-- [React-App-Link](https://gitub.com/ZikaZaki/hello-react-front-end)
+- [React-App-Link](https://github.com/ZikaZaki/hello-react-front-end)
 
 ## 🚀 Live Video Demo (not available yet)<a name="live-video-demo"></a>
 
